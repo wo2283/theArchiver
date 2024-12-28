@@ -1,0 +1,16 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+/venv
+/env
+
+# SQLite database
+*.sqlite3
+
+# Migrations
+migrations
+/app/__pycache__/
+/app/app.db
